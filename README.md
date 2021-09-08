@@ -39,3 +39,11 @@ Food/Drinks that i recommend someone
 |Chicken Burger | McDonald | $2.50 |
 | French Fries | McDonald | $1.50 |
 | Drink | Sonic | $1.00 |
+
+---
+
+## Quotes
+
+> Winners don't do different things, They do things differently  *Shiva  Khera* 
+
+> No one will believe in you until you believe in you  *Robin Sharma*
