@@ -65,21 +65,23 @@ Breadth-first search algorithm [Reference_link](https://en.wikipedia.org/wiki/Br
 
 code for Breadth-first search
 
-vector<vector<int>> adj;  // adjacency list representation
-int n; // number of nodes
-int s; // source vertex
+    vector<vector<int>> adj;  // adjacency list representation
+    int n; // number of nodes
+    int s; // source vertex
 
-queue<int> q;
-vector<bool> used(n);
-vector<int> d(n), p(n);
+    queue<int> q;
+    vector<bool> used(n);
+    vector<int> d(n), p(n);
 
-q.push(s);
-used[s] = true;
-p[s] = -1;
-while (!q.empty()) {
+    q.push(s);
+    used[s] = true;
+    p[s] = -1;
+    while (!q.empty()) 
+    {
     int v = q.front();
     q.pop();
-    for (int u : adj[v]) {
+    for (int u : adj[v]) 
+        {
         if (!used[u]) {
             used[u] = true;
             q.push(u);
