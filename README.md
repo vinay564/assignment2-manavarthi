@@ -18,3 +18,11 @@ My village is a place that I like to visit in my holidays or whenever I feel tir
     2. Dubai to Hyderabad.
     3. Hyderabad to Rajahmundry.
 4. travel Rajahmundry to Jaddangi by car.
+
+
+* Items bought for enjoyment 
+    * Playing Cards
+    * Drinks
+    * Food
+
+
