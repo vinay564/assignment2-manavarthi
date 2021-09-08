@@ -89,17 +89,3 @@ while (!q.empty()) {
     }
 
 Breadth-first search algorithm [Code_link](https://cp-algorithms.com/graph/breadth-first-search.html)
-
-If we have to restore and display the shortest path from the source to some vertex u, it can be done in the following manner:
-
-if (!used[u]) {
-    cout << "No path!";
-} else {
-    vector<int> path;
-    for (int v = u; v != -1; v = p[v])
-        path.push_back(v);
-    reverse(path.begin(), path.end());
-    cout << "Path: ";
-    for (int v : path)
-        cout << v << " ";
-}
