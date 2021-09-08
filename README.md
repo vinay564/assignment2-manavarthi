@@ -14,7 +14,7 @@ My village is a place that I like to visit in my holidays or whenever I feel tir
 2. Book flight ticket from  Kansas to Chicago.
     1. Ready to board the flight.
 3. and Chicago to London.
-  1.London to Dubai.
-  2. Dubai to Hyderabad.
-  3.Hyderabad to Rajahmundry.
+    1. London to Dubai.
+    2. Dubai to Hyderabad.
+    3. Hyderabad to Rajahmundry.
 4. travel Rajahmundry to Jaddangi by car.
