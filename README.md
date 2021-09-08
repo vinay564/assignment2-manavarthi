@@ -27,3 +27,15 @@ My village is a place that I like to visit in my holidays or whenever I feel tir
 
 
 [Click here to know About Me](AboutMe.md)
+
+ ---
+## Table
+
+Food/Drinks that i recommend someone
+
+| Food/Drink | Location | Money |
+| -----------| -------- | ----- |
+| Burger | Burgewr King | $3.00 |
+|Chicken Burger | McDonald | $2.50 |
+| French Fries | McDonald | $1.50 |
+| Drink | Sonic | $1.00 |
